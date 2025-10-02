@@ -1,0 +1,2031 @@
+[
+  {
+    "title": "Path 1",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/36\">Slice of Life</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that began airing in 2003",
+        "notes": "Can finish airing in any year."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/madhouse#challengeItems\">Madhouse</a> anime",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/25\">Shoujo</a> or <a href=\"https://myanimelist.net/anime/genre/27\">Shounen</a> anime"
+      },
+      {
+        "challenge": "Watch an Award-Winning anime",
+        "notes": "Must be listed on one of the following lists: <a href=\"https://anime.jhiday.net/hof/challenge/awardTV#challengeItems\">Award-Winning TV</a> or <a href=\"https://anime.jhiday.net/hof/challenge/awardNoTV#challengeItems\">Award-Winning Non-TV</a>."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/koreanChinese#challengeItems\">Chinese or Korean</a> animation"
+      },
+      {
+        "challenge": "Watch an anime that began airing before 1980",
+        "notes": "Anime must have began airing on Dec 31, 1979 or before. Can finish airing in 1980 or later."
+      },
+      {
+        "challenge": "Watch an anime based on a novel or light novel"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/37\">supernatural</a> or <a href=\"https://myanimelist.net/anime/genre/6\">mythology</a> anime",
+        "notes": "State the option used. Must be listed on the tag page."
+      },
+      {
+        "challenge": "Watch an anime with an English main title"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an <a href=\"https://anime.jhiday.net/hof/challenge/isekai#challengeItems\">Isekai</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with 20 episodes or more"
+      },
+      {
+        "challenge": "Watch an anime that contains one of the words \"Magi, Mahou, Witch, or Majo\" in the main title"
+      },
+      {
+        "challenge": "Watch an anime adapted from a Book or Novel",
+        "notes": "Does not include Picture Book, Light Novel, Visual Novel or Web Novel."
+      },
+      {
+        "challenge": "Watch an anime featuring a main character whose hair is <a href=\"https://anidb.net/tag/1826\">White</a> or <a href=\"https://anidb.net/tag/2241\">Black</a>",
+        "notes": "Alternative listing: <a href=\"https://www.anime-planet.com/characters/all?hair_color_id=11&role_id=1\">White</a>, <a href=\"https://www.anime-planet.com/characters/all?hair_color_id=7&role_id=1\">Black</a>. Must be listed as a main character on MAL."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch a anime with a special character/symbol in one of the titles",
+        "notes": "Refers to symbols that aren't commonly used in writing. For example ♥ ☆ ★ ♪ etc. ; Excludes keyboard punctuation marks such as & . , ! ? : ; “ ” ‘ ’ ( ) { } [ ] @ * ~ / – # $"
+      },
+      {
+        "challenge": "Watch an anime rated R, R+ or Rx"
+      },
+      {
+        "challenge": "Watch an anime with 23 min. per ep.",
+        "notes": "The episode duration must be exactly 23 min."
+      },
+      {
+        "challenge": "Watch an anime about <a href=\"https://anidb.net/tag/6068/animetb\">Sacrifices</a>"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anidb.net/tag/3528\">Reincarnation</a> anime",
+        "notes": "Alternative listing: <a href=\"https://myanimelist.net/anime/genre/72\">Reincarnation</a>."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a character that wears a <a href=\"https://anidb.net/tag/1397/animetb\">Witch Hat</a> or is a <a href=\"https://www.anime-planet.com/anime/tags/witches\">Witch</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch an anime with exactly 2 main characters",
+        "notes": "Can have any number of supporting characters."
+      },
+      {
+        "challenge": "Watch an anime that began airing on the 2nd day"
+      },
+      {
+        "challenge": "Watch an anime that began airing during February"
+      },
+      {
+        "challenge": "Watch an anime that is <a href=\"https://anidb.net/tag/4498/animetb\">Heart-Warming</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with <a href=\"https://anidb.net/tag/178\">Insanity</a>, <a href=\"https://anidb.net/tag/2488\">Alters</a> or an <a href=\"https://anidb.net/tag/3826\">Evil Laugh</a>"
+      },
+      {
+        "challenge": "Watch an anime that began airing before 2010"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with any of these letters: B, O, K"
+      },
+      {
+        "challenge": "Watch an anime with a director or original creator with \"no\" in their name",
+        "notes": "Can be the word alone or as part of another."
+      },
+      {
+        "challenge": "Watch an anime where a main character has <a href=\"https://anidb.net/tag/1810\">red hair</a>",
+        "notes": "State the character used. Must be listed as a main character on MAL. Additional source on <a href=\"https://www.anime-planet.com/characters/all?hair_color_id=10\">Anime-Planet</a>."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/6184\">Autumn</a>"
+      },
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/5838/animetb\">Fire</a> or <a href=\"https://anidb.net/tag/2332/animetb\">Fire Magic</a>: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "State the option used. Alternative listing: <a href=\"https://www.anime-planet.com/characters/tags/fire-powers\">Fire Magic</a>. If using the Anime-Planet tag, state the character used."
+      },
+      {
+        "challenge": "Watch an anime that features a <a href=\"https://anidb.net/tag/1538/animetb\">Passionate</a> character: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://www.anime-planet.com/characters/tags/smokers\">Smoker</a> character",
+        "notes": "State the character used. Can be main or supporting. Alternative listing: <a href=\"https://anidb.net/tag/1428\">Smoker</a>."
+      },
+      {
+        "challenge": "Watch an anime that began airing in July or August"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an Adventure anime that started airing between 2000 and 2009"
+      },
+      {
+        "challenge": "Watch an anime with an established <a href=\"https://anidb.net/tag/34\">Leader</a>",
+        "notes": "State the sub-tag and character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with the word \"no\" or the hiragana \"の\" twice in one of the titles",
+        "notes": "The title used must have either (word/hiragana) repeated twice; The word can be alone or as part of another; Under \"Alternative Titles\", the hiragana must appear on any of the Japanese titles; Chinese titles are allowed; it doesn't matter the meaning, it just need to appear as is."
+      },
+      {
+        "challenge": "Watch an anime that portrays a Dystopia",
+        "notes": "State the source: <a href=\"https://anidb.net/tag/2882\">anidb</a> or <a href=\"https://www.anime-planet.com/anime/tags/dystopia\">Anime-Planet</a>"
+      },
+      {
+        "challenge": "Watch an anime with an <a href=\"https://anidb.net/tag/5872/animetb\">unlucky</a> or <a href=\"https://anidb.net/tag/3112/animetb\">lucky</a> character",
+        "notes": "State the tag and character used. Can be main or supporting."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that features an <a href=\"https://anidb.net/tag/4398/animetb\">Anti-Hero</a>"
+      },
+      {
+        "challenge": "Watch an anime with 11 episodes"
+      },
+      {
+        "challenge": "Watch an anime with <a href=\"https://www.anime-planet.com/characters/tags/twins\">Twins</a>",
+        "notes": "State the characters used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with a color in its main title",
+        "notes": "Use only English or Japanese for the colors. Bold or note the color used."
+      },
+      {
+        "challenge": "Watch an anime with an <a href=\"https://anidb.net/tag/2555/animetb\">Amnesiac</a> character"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that started airing on a 4th day"
+      },
+      {
+        "challenge": "Watch an anime from one of the <a href=\"https://anime.jhiday.net/hof/challengeList#category-19\">Studios-Based</a> challenges",
+        "notes": "Use any of the studios listed under the \"Studios Based Challenges\" category."
+      },
+      {
+        "challenge": "Watch an Original 90's anime"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/13\">Historical</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that has a <a href=\"https://anidb.net/tag/1438/animetb\">Cold-Blooded</a> character"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with the color white on any of its MAL pictures"
+      },
+      {
+        "challenge": "Watch an anime which has no recommendations"
+      },
+      {
+        "challenge": "Watch an anime with a main title that starts and ends with the same letter"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/8\">Drama</a> or <a href=\"https://myanimelist.net/anime/genre/40\">Psychological</a> anime",
+        "notes": "State the tag used."
+      },
+      {
+        "challenge": "Watch an anime that features a <a href=\"https://anidb.net/tag/5205\">Dungeon</a>: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "Alternative <a href=\"https://www.anime-planet.com/anime/tags/dungeon\">listing</a>."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with an <a href=\"https://anidb.net/tag/2602/animetb\">Actor</a>, <a href=\"https://anidb.net/tag/122/animetb\">Artist</a> or <a href=\"https://anidb.net/tag/1948/animetb\">Singer</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch an Original anime that began airing between 2010 and 2019"
+      },
+      {
+        "challenge": "Watch an anime that contains the first letter of your username",
+        "notes": "Can be anywhere in the main title - if the first character of your username is not a letter then pick the following actual letter."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/mafia#challengeItems\">Mafia</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that was broadcasted between 00:00 and 04:00 (JST)",
+        "notes": "Only use the JST listed on MAL; Must appear listed under the \"Information\" left sidebar, besides the \"Broadcast\" field; Check our <a href=\"https://anime.jhiday.net/hof/challenge/jst#challengeItems\">HoF checklist</a> for the JST Challenge, it helps with series broadcasted between 0:00 and 2:59 JST."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with the sky in one of its MAL pictures"
+      },
+      {
+        "challenge": "Watch an anime related to something you completed during 2025",
+        "notes": "State the related anime that was previously watched; It can be any relation, directly stated on the entry or from the same franchise."
+      },
+      {
+        "challenge": "Watch an anime that began airing on a <a href=\"https://anime.jhiday.net/hof/challenge/friday#challengeItems\">Friday</a> or <a href=\"https://anime.jhiday.net/hof/challenge/saturday#challengeItems\">Saturday</a>",
+        "notes": "State the day used."
+      },
+      {
+        "challenge": "Watch an anime made by <a href=\"https://anime.jhiday.net/hof/challenge/studioDeen#challengeItems\">Studio Deen</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/steampunk#challengeItems\">Steampunk</a> anime"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that is <a href=\"https://anidb.net/tag/6300/animetb\">missing an ending segment</a>"
+      },
+      {
+        "challenge": "Watch an anime that began airing during any 26th day"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with \"P\""
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID begins with 4"
+      },
+      {
+        "challenge": "Watch an anime that features the <a href=\"https://anidb.net/tag/2625\">Past</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime made by <a href=\"https://anime.jhiday.net/hof/challenge/JCStaff#challengeItems\">J.C.Staff</a>"
+      },
+      {
+        "challenge": "Watch an anime with a character who has a <a href=\"https://anidb.net/tag/5882/animetb\">secret identity</a> or a <a href=\"https://anidb.net/tag/4182/animetb\">hidden power</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch anime with a <a href=\"https://anidb.net/tag/2886/animetb\">New Year's Day</a> episode"
+      },
+      {
+        "challenge": "Watch an anime with an <a href=\"https://www.anime-planet.com/characters/tags/elderly\">Elderly</a> character",
+        "notes": "State the character used. Can be main or supporting. Must appear on the tag list and not necessarily on MAL."
+      },
+      {
+        "challenge": "Watch a TV or ONA type with 11 episodes or less"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.1.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/28\">Boys Love</a> or <a href=\"https://myanimelist.net/anime/genre/26\">Girls Love</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that started airing in Summer",
+        "notes": "Began airing during the following months: July, August or September."
+      },
+      {
+        "challenge": "Watch an anime made by at least two different studios",
+        "notes": "Both must appear listed in the \"Studios\" section of the anime."
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/118\">Kamiya, Hiroshi</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with a character that is a <a href=\"https://anidb.net/tag/1208/animetb\">Yandere</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2",
+    "challenges": [
+      {
+        "challenge": "Watch a Movie type"
+      },
+      {
+        "challenge": "Watch an anime that takes place in the <a href=\"https://anidb.net/tag/2634\">countryside</a>"
+      },
+      {
+        "challenge": "Watch an anime with 13 or more episodes"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anidb.net/tag/2788\">confession</a>"
+      },
+      {
+        "challenge": "Watch an anime based on a Manga",
+        "notes": "Excludes digital manga, web manga, and 4-koma manga."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime featuring a <a href=\"https://anidb.net/tag/2492/animetb\">Brave</a>, <a href=\"https://anidb.net/tag/2141/animetb\">Confident</a>, or <a href=\"https://anidb.net/tag/2469/animetb\">Iron-Willed</a> character"
+      },
+      {
+        "challenge": "Watch an anime with a character with \"no\" in their name",
+        "notes": "State the character used. Can be main or supporting. Can be the word alone or as part of another."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/42\">Seinen</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that began airing on the 31st day",
+        "notes": "Any month/year."
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/160\">Koyasu, Takehito</a>",
+        "notes": "State the character used. Can be main or supporting."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/2887\">Tragedy</a>"
+      },
+      {
+        "challenge": "Watch an anime that began airing during 2019"
+      },
+      {
+        "challenge": "Watch an anime with text or numbers in one of its MAL pictures"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/53\">Childcare</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with exactly 24 episodes"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/65\">Miyano, Mamoru</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch a Psychological anime that started airing in the same year you joined MAL"
+      },
+      {
+        "challenge": "Watch an anime that was broadcasted between 22:00 and 23:59 (JST)",
+        "notes": "Only use the JST listed on MAL; Must appear listed under the \"Information\" left sidebar, besides the \"Broadcast\" field; Check our <a href=\"https://anime.jhiday.net/hof/challenge/jst#challengeItems\">HoF checklist</a> for the JST Challenge, it helps with series broadcasted between 22:00 and 23:59 JST."
+      },
+      {
+        "challenge": "Watch an anime that began airing on the 22nd day"
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID begins with 7"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime made by <a href=\"https://anime.jhiday.net/hof/challenge/olm#challengeItems\">OLM</a>"
+      },
+      {
+        "challenge": "Watch an anime with four or more main characters"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anidb.net/tag/2925/animetb\">war</a> taking place"
+      },
+      {
+        "challenge": "Watch a Mythology OVA"
+      },
+      {
+        "challenge": "Watch a Drama AND Shoujo anime"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/3102\">Halloween</a>"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/59\">High Stakes Game</a> anime: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch an anime that features the <a href=\"https://anidb.net/tag/2626\">Future</a>"
+      },
+      {
+        "challenge": "Watch a stand-alone OVA anime",
+        "notes": "Stand-alone refers to no listed anime under \"Related Anime\". Adaptations are okay."
+      },
+      {
+        "challenge": "Watch an anime with a character who has <a href=\"https://anidb.net/tag/1826/animetb\">White Hair</a>",
+        "notes": "Additional Source on <a href=\"https://www.anime-planet.com/characters/all?hair_color_id=11\">Anime-Planet</a>. If using the Anime-Planet tag, state the character used."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a Popularity lower than 5000: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "Popularity is 5001, 5002, 5003, etc."
+      },
+      {
+        "challenge": "Watch a OVA anime that started airing in 1980 or before"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/672\">Kaji, Yuuki</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with a score of 7.77 or higher"
+      },
+      {
+        "challenge": "Watch an anime that began airing on the 19th day",
+        "notes": "Any month, any year."
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a main title that starts with C, L, A, or W"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/212\">Ono, Daisuke</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anidb.net/tag/1721/animetb\">Short-Tempered</a> character"
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID ends with 5"
+      },
+      {
+        "challenge": "Watch an anime with 2,000 or more favorites"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch a a series recommended to one of your favorite anime",
+        "notes": "State the previously completed favorite that's listed on your profile, under the Favorite Anime section; The used anime must appear under the \"Recommendations\" tab for the series previously watched; You can include a screenshot of your Favorites showing your username in case your favorites change by inspection."
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anime.jhiday.net/hof/challenge/liveAction#challengeItems\">Live Action</a> counterpart"
+      },
+      {
+        "challenge": "Watch an anime with a character that is a <a href=\"https://anidb.net/tag/2069/animetb\">Delinquent</a>",
+        "notes": "Additional source on <a href=\"https://www.anime-planet.com/characters/tags/delinquents\">Anime-Planet</a>. If using the Anime-Planet list, state the character used."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/cyberpunk#challengeItems\">Cyberpunk</a> or <a href=\"https://myanimelist.net/anime/genre/24\">Sci-Fi</a> anime"
+      },
+      {
+        "challenge": "Watch a Movie with a total runtime of 1 hour or less"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a character that wears a <a href=\"https://anidb.net/tag/1492/animetb\">Mask</a> or <a href=\"https://anidb.net/tag/6531/animetb\">Disguises</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch a prequel",
+        "notes": "The anime used must have a listed sequel under \"Related Entries\"."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/39\">Detective</a> anime"
+      },
+      {
+        "challenge": "Watch an <a href=\"https://myanimelist.net/anime/genre/63\">Iyashikei</a> anime"
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID begins with 2"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with 5 or more genres, themes, or demographics",
+        "notes": "Refers to all tags in total."
+      },
+      {
+        "challenge": "Watch an anime where a character is a non-human creature",
+        "notes": "State the character. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime that began airing before 1980"
+      },
+      {
+        "challenge": "Watch a Sequel anime with a lower score than its prequel"
+      },
+      {
+        "challenge": "Watch an anime adapted from a Visual Novel or a Game"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/6686\">Yuuki, Aoi</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime that started airing in Spring",
+        "notes": "Began airing during the following months: April, May or June."
+      },
+      {
+        "challenge": "Watch an anime with D, A, R or K in its main title"
+      },
+      {
+        "challenge": "Watch an <a href=\"https://myanimelist.net/anime/genre/50\">Adult Cast</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with <a href=\"https://anidb.net/tag/6110/animetb\">Fireworks</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that features a <a href=\"https://anime.jhiday.net/hof/challenge/postApocalyptic#challengeItems\">Post-Apocalyptic World</a>"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anidb.net/tag/2862\">Friendship</a>"
+      },
+      {
+        "challenge": "Watch an anime with a main title that has 5 words or more",
+        "notes": "Words must be separated by a space to count as one. A single letter, symbol or number does not count as a word."
+      },
+      {
+        "challenge": "Watch an anime that began airing during the same season you joined MAL",
+        "notes": "Can be any day/year; Use the month to determine the season: Winter (January, February, March), Spring (April, May, June), Summer (July, August, September), Fall (October, November, December)."
+      },
+      {
+        "challenge": "Watch an anime with red, orange, or yellow in one of its MAL pictures"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that has a one-word title"
+      },
+      {
+        "challenge": "Watch an anime with fewer than 5,000 Completed users on its stats page"
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID ends with 8"
+      },
+      {
+        "challenge": "Watch an anime that has a total duration of 4 hours or more"
+      },
+      {
+        "challenge": "Watch an 90's Movie"
+      }
+    ]
+  },
+  {
+    "title": "Path 1.2.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/2878\">Conspiracy</a>"
+      },
+      {
+        "challenge": "Watch an Adventure Movie"
+      },
+      {
+        "challenge": "Watch an anime with the color blue on any of its MAL pictures"
+      },
+      {
+        "challenge": "Watch a Suspense anime rated 7.00 or higher"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with \"C\""
+      }
+    ]
+  },
+  {
+    "title": "Path 2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that has a <a href=\"https://myanimelist.net/anime/genre/64\">love polygon</a> or <a href=\"https://anidb.net/tag/2785\">unrequited love</a>",
+        "notes": "State the option used. Must be listed on the tag page."
+      },
+      {
+        "challenge": "Watch a Special or TV Special"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/bones#challengeItems\">Bones</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that aired at 00:00 JST",
+        "notes": "Must be listed as Broadcast: (Day) at 00:00 (JST)."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/8\">drama</a> or <a href=\"https://myanimelist.net/anime/genre/10\">fantasy</a> anime"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anime.jhiday.net/hof/challenge/angels#challengeItems\">Angels</a>"
+      },
+      {
+        "challenge": "Watch an anime that started airing in Winter",
+        "notes": "Began airing during the following months: January, February or March."
+      },
+      {
+        "challenge": "Watch an anime with episodes that are each 30 minutes or more long",
+        "notes": "Must have more than one episode."
+      },
+      {
+        "challenge": "Watch an anime with 5 or more genres, themes, or demographics",
+        "notes": "Refers to all tags in total."
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://www.anime-planet.com/characters/tags/shapeshifters\">Shapeshifter</a> character",
+        "notes": "State the character. Can be main or supporting. Must be listed on the tag list and not necessarily on MAL."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/569\">MAPPA</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch an anime that began airing between 2010 and 2019"
+      },
+      {
+        "challenge": "Watch an anime with 4 or less MAL tags",
+        "notes": "Tags can be genres, themes or demographics listed here on MAL."
+      },
+      {
+        "challenge": "Watch an anime that started airing in Fall",
+        "notes": "Began airing during the following months: October, November or December."
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/185\">Hanazawa, Kana</a>",
+        "notes": "State the character used. Can be main or supporting."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a non-alphanumeric character in the main title",
+        "notes": "Non-alphanumeric characters refers to any character other than letters, numbers and blank spaces."
+      },
+      {
+        "challenge": "Watch an anime with a score of 6.66 or lower"
+      },
+      {
+        "challenge": "Watch an anime that began airing during any 6th day"
+      },
+      {
+        "challenge": "Watch an anime that has a total duration of 6 hours or more"
+      },
+      {
+        "challenge": "Watch an anime that has 6 or 12 episodes"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with F, O, or G in its main title"
+      },
+      {
+        "challenge": "Watch an anime made by a studio with 150 or more anime"
+      },
+      {
+        "challenge": "Watch an Horror TV-type"
+      },
+      {
+        "challenge": "Watch a PG-13 anime"
+      },
+      {
+        "challenge": "Watch an Action anime that started airing between 2000 and 2009"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with an <a href=\"https://anidb.net/tag/5872/animetb\">unlucky</a> character"
+      },
+      {
+        "challenge": "Watch an anime that began airing during December"
+      },
+      {
+        "challenge": "Watch an anime which has no recommendations"
+      },
+      {
+        "challenge": "Watch an anime with a character that is a <a href=\"https://anidb.net/tag/2069/animetb\">Delinquent</a>",
+        "notes": "Additional source on <a href=\"https://www.anime-planet.com/characters/tags/delinquents\">Anime-Planet</a>. If using the Anime-Planet list, state the character used."
+      },
+      {
+        "challenge": "Watch an anime with a title that ends with the letter \"I\""
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that began airing during any 3rd day"
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID begins with 1"
+      },
+      {
+        "challenge": "Watch an anime featuring a <a href=\"https://anidb.net/tag/1544/animetb\">Teacher</a>"
+      },
+      {
+        "challenge": "Watch an anime that started airing in a year ending in 1"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/11\">Strategy Game</a> anime"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that has a prequel or sequel"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/cgi#challengeItems\">CGI</a> anime"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/10\">Fantasy</a> anime: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/79\">Sakurai, Takahiro</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime that began airing in 2025"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that began airing on the 1st day"
+      },
+      {
+        "challenge": "Watch an anime that began airing during March"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anime.jhiday.net/hof/challenge/liveAction#challengeItems\">Live Action</a> counterpart"
+      },
+      {
+        "challenge": "Watch an anime with 20 episodes or more"
+      },
+      {
+        "challenge": "Watch an anime with a total duration of two hours or longer in a single calendar day",
+        "notes": "Start and end date must be the same date."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch a Sequel anime with a higher score than its prequel"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/40\">Psychological</a> or <a href=\"https://myanimelist.net/anime/genre/41\">Suspense</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with a character that wears a <a href=\"https://anidb.net/tag/993/animetb\">Coat</a> or <a href=\"https://anidb.net/tag/468/animetb\">Jacket</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch an 80's OVA"
+      },
+      {
+        "challenge": "Watch an anime that started airing in 2020"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/6\">Mythology</a> or <a href=\"https://myanimelist.net/anime/genre/32\">Vampire</a> anime"
+      },
+      {
+        "challenge": "Watch a TV-type anime that started airing in 1980 or before"
+      },
+      {
+        "challenge": "Watch an anime that started and finished airing in different years"
+      },
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/14\">Sunrise</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/95\">Suwabe, Junichi</a>",
+        "notes": "State the character used. Can be main or supporting."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/73\">TMS Entertainment</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/7\">Mystery</a> or <a href=\"https://myanimelist.net/anime/genre/40\">Psychological</a> anime: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch a Suspense anime with 10 episodes or less: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch a Detective anime that started airing in Winter: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch an anime whose main title ends with O or U"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/1489\">Maeno, Tomoaki</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime that started airing in April"
+      },
+      {
+        "challenge": "Watch an ONA"
+      },
+      {
+        "challenge": "Watch an anime that began airing on a <a href=\"https://anime.jhiday.net/hof/challenge/monday#challengeItems\">Monday</a>"
+      },
+      {
+        "challenge": "Watch an anime that began airing on the 12th day"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/67\">Medical</a> anime"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/869\">Hayami, Saori</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with a Voice Actor/Actress who is credited under at least two different characters",
+        "notes": "State the VA used; can be any language."
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID ends with 2"
+      },
+      {
+        "challenge": "Watch an anime that began airing during September"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that began airing during November"
+      },
+      {
+        "challenge": "Watch an <a href=\"https://myanimelist.net/anime/genre/63\">Iyashikei</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that features the <a href=\"https://anidb.net/tag/2626\">Future</a>"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with \"G\""
+      },
+      {
+        "challenge": "Watch an anime with text or numbers on any of its MAL pictures"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.1.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/11030\">Anzai, Chika</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with 2 or less genres, themes, or demographics",
+        "notes": "Refers to all tags in total."
+      },
+      {
+        "challenge": "Watch an anime that began airing during any 16th day"
+      },
+      {
+        "challenge": "Watch an anime that is <a href=\"https://anidb.net/tag/6301/animetb\">missing an opening segment</a>"
+      },
+      {
+        "challenge": "Watch an anime with a title that ends with the letter \"A\""
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/7\">Mystery</a> or <a href=\"https://myanimelist.net/anime/genre/14\">Horror</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that features a <a href=\"https://anidb.net/tag/1663/animetb\">Miko</a> or a <a href=\"https://anidb.net/tag/6123/animetb\">Shrine/Temple</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch an anime rated 7.0 or lower"
+      },
+      {
+        "challenge": "Watch an anime where a character is a non-human creature",
+        "notes": "State the character. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime that started airing in Summer",
+        "notes": "Began airing during the following months: July, August or September."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/37\">Supernatural</a> anime"
+      },
+      {
+        "challenge": "Watch an anime adapted from a Visual Novel or a Game",
+        "notes": "Game source does not include card game nor the game theme tag."
+      },
+      {
+        "challenge": "Watch an anime with only 6 episodes",
+        "notes": "The number of episodes must be exactly 6."
+      },
+      {
+        "challenge": "Watch an anime with the color green visible somewhere on one of its cover pictures"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/22\">Miki, Shinichiro</a>",
+        "notes": "State the character used. Can be main or supporting."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/591\">Tsuda, Kenjiro</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/timeTravel#challengeItems\">Time Travel</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with fewer than 10,000 Completed users on its stats page"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/99\">Sawashiro, Miyuki</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime from a <a href=\"https://anime.jhiday.net/hof/staffCollections\">Staffer's Collection</a>",
+        "notes": "Includes: Staff Collections, MAC Collections, AWC Collections and AG Collections."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an <a href=\"https://myanimelist.net/anime/genre/5\">Avant Garde</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with T, R, A, or P in its main title"
+      },
+      {
+        "challenge": "Watch an anime that started airing in Fall",
+        "notes": "Began airing during the following months: October, November or December."
+      },
+      {
+        "challenge": "Watch an anime based on a Manga",
+        "notes": "Excludes digital manga, web manga, and 4-koma manga."
+      },
+      {
+        "challenge": "Watch an <a href=\"https://anime.jhiday.net/hof/challenge/isekai#challengeItems\">Isekai</a> anime"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/madhouse#challengeItems\">Madhouse</a> anime",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch an anime that began airing during October"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/18\">Mecha</a> anime"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/762\">Itou, Kanae</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch a Space Special or TV Special"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a recorded MAL database change in the Hall of Fame",
+        "notes": "The Hall of Fame pages for individual anime can be found at \" https://anime.jhiday.net/hof/anime/MAL_ID \". For example, the HoF page for <a href=\"https://myanimelist.net/anime/32\">Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni</a> is \" https://anime.jhiday.net/hof/anime/32 \". Any change under the History section (like title, source, air date, number of episodes, MAL theme or genre changes) is valid. You can also refer to <a href=\"https://anime.jhiday.net/hof/history/1/seriesModify\">this list</a> of recent changes."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/24\">Sci-Fi</a> anime"
+      },
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/10\">Production I.G</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch an anime rated 8.00 or higher",
+        "notes": "Screenshot suggested in case score changes by inspection. Must show your username."
+      },
+      {
+        "challenge": "Watch an anime that is NOT rated PG-13"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that started airing in June"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/25\">Shoujo</a> or <a href=\"https://myanimelist.net/anime/genre/27\">Shounen</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/6184\">Autumn</a>"
+      },
+      {
+        "challenge": "Watch a stand-alone ONA anime",
+        "notes": "Stand-alone refers to no listed anime under \"Related Anime\". Adaptations are okay."
+      },
+      {
+        "challenge": "Watch an anime that contains the first letter of your username",
+        "notes": "Can be anywhere in the main title - if the first character of your username is not a letter then pick the following actual letter."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime whose main title begins with any of these letters: W, A, I, or T"
+      },
+      {
+        "challenge": "Watch an anime that began airing on the 11th day"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/53\">Childcare</a> anime"
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID begins with 1"
+      },
+      {
+        "challenge": "Watch an anime that features a <a href=\"https://anidb.net/tag/5205\">Dungeon</a>: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "Alternative <a href=\"https://www.anime-planet.com/anime/tags/dungeon\">listing</a>."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/gar#challengeItems\">GAR</a> anime"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with any of these letters: G, R, A, V, E"
+      },
+      {
+        "challenge": "Watch an anime with more than one main character"
+      },
+      {
+        "challenge": "Watch an anime tagged as <a href=\"https://anidb.net/tag/2874\">Disaster</a>"
+      },
+      {
+        "challenge": "Watch an anime that began airing on the 9th day",
+        "notes": "Any month, any year."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that starts with the same last letter of your username",
+        "notes": "The main title must start with the last letter of your username. For example, \"SheyCroix\" would need an anime whose main title starts with \"X\"; If the last character of your username is not a letter then pick the following actual letter."
+      },
+      {
+        "challenge": "Watch an ONA that has a non-Japanese main title",
+        "notes": "Any language that is not Japanese (English, Chinese, Korean, etc.)."
+      },
+      {
+        "challenge": "Watch an anime that has a one-word title"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/34785\">Takahashi, Rie</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/worldTour#challengeItems\">World Tour</a> anime",
+        "notes": "Specify which Country is used."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/600\">Toyonaga, Toshiyuki</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime that started airing in Spring",
+        "notes": "Began airing during the following months: April, May or June."
+      },
+      {
+        "challenge": "Watch an Action anime that began airing between 2010 and 2019"
+      },
+      {
+        "challenge": "Watch an anime with exactly 2 main characters",
+        "notes": "Can have any number of supporting characters."
+      },
+      {
+        "challenge": "Watch a anime with a special character/symbol in one of the titles",
+        "notes": "Refers to symbols that aren't commonly used in writing. For example ♥ ☆ ★ ♪ etc. ; Excludes keyboard punctuation marks such as & . , ! ? : ; “ ” ‘ ’ ( ) { } [ ] @ * ~ / – # $"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an OVA"
+      },
+      {
+        "challenge": "Watch an anime with more than 50,000 total members"
+      },
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/10\">Production I.G</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/112\">Midorikawa, Hikaru</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch a series with a theme song by <a href=\"https://myanimelist.net/people/49130\">Eve</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime from one of the <a href=\"https://anime.jhiday.net/hof/challenge/topCompanies#challengeItems\">Top Companies</a>",
+        "notes": "State the company used."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/38\">Military</a>"
+      },
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/2094\">Magic</a> or <a href=\"https://anidb.net/tag/75/animetb\">Skeletons</a>: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/1291/animetb\">Royalty</a>: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch an anime with a Popularity lower than 500: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "Popularity is 501, 502, 503, etc."
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a theme song by <a href=\"https://myanimelist.net/people/12859\">Aimer</a>"
+      },
+      {
+        "challenge": "Watch an <a href=\"https://anime.jhiday.net/hof/challenge/unpopular#challengeItems\">Unpopular</a> anime"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/19\">Musical</a> anime",
+        "notes": "Does not refer to Music type."
+      },
+      {
+        "challenge": "Watch an anime with no characters in one of its MAL pictures"
+      },
+      {
+        "challenge": "Watch a Historical anime adapted from a Game or Visual Novel"
+      }
+    ]
+  },
+  {
+    "title": "Path 2.2.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a main title that has 3 words or less",
+        "notes": "Words must be separated by a space to count as one. A single letter, symbol or number does not count as a word."
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/17\">Ishida, Akira</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID has the number \"12\" in it"
+      },
+      {
+        "challenge": "Watch an anime with 500 or less favorites"
+      },
+      {
+        "challenge": "Watch an anime that began airing during July"
+      }
+    ]
+  },
+  {
+    "title": "Path 3",
+    "challenges": [
+      {
+        "challenge": "Watch a PG-13 anime"
+      },
+      {
+        "challenge": "Watch an <a href=\"https://myanimelist.net/anime/genre/1\">action</a> anime"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/cgi#challengeItems\">CGI</a> anime"
+      },
+      {
+        "challenge": "Watch an OVA"
+      },
+      {
+        "challenge": "Watch an anime with one episode"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/4\">Comedy</a> or <a href=\"https://myanimelist.net/anime/genre/20\">Parody</a> anime",
+        "notes": "State the tag used."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/23\">School</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with less than 15,000 total members"
+      },
+      {
+        "challenge": "Watch an anime with a title that ends with the letter \"S\""
+      },
+      {
+        "challenge": "Watch an anime that has a prequel or sequel"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/10\">Production I.G</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/8\">Kugimiya, Rie</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an <a href=\"https://anime.jhiday.net/hof/challenge/unpopular#challengeItems\">Unpopular</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with a male main cast",
+        "notes": "All characters listed as main should be listed as males."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/3\">Racing</a> anime"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an <a href=\"https://myanimelist.net/anime/genre/5\">Avant Garde</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with <a href=\"https://anidb.net/tag/6110\">Fireworks</a>"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with \"M\""
+      },
+      {
+        "challenge": "Watch an anime whose MAL ID ends with 0"
+      },
+      {
+        "challenge": "Watch an anime with no characters in one of its MAL pictures"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that began airing during April"
+      },
+      {
+        "challenge": "Watch an ONA that has a non-Japanese main title",
+        "notes": "Any language that is not Japanese (English, Chinese, Korean, etc.)."
+      },
+      {
+        "challenge": "Watch an anime with a Voice Actor/Actress who is credited under at least two different characters",
+        "notes": "State the VA used; can be any language."
+      },
+      {
+        "challenge": "Watch an anime that started and finished airing in different years"
+      },
+      {
+        "challenge": "Watch an anime that started airing in a year ending in 9"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that began airing during any 21st day"
+      },
+      {
+        "challenge": "Watch an anime that began airing between 2015 and 2019"
+      },
+      {
+        "challenge": "Watch an anime that aired at 01:00 JST",
+        "notes": "Must be listed as Broadcast: (Day) at 01:00 (JST)."
+      },
+      {
+        "challenge": "Watch a 90's Action anime"
+      },
+      {
+        "challenge": "Watch an anime with an English main title"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime where a <a href=\"https://anime.jhiday.net/hof/challenge/mascot#challengeItems\">Mascot</a> appears",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with a female main character",
+        "notes": "Gender must be listed as such; Must have at least one as main character while the other MCs can be males."
+      },
+      {
+        "challenge": "Watch an anime with a character that is a <a href=\"https://anidb.net/tag/1208/animetb\">Yandere</a>"
+      },
+      {
+        "challenge": "Watch an anime made by a studio with 50 or less anime"
+      },
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/4203/animetb\">Rebellion</a> or <a href=\"https://anidb.net/tag/5773/animetb\">Secret Organizations</a>: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "State the option used."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with 13 or less episodes"
+      },
+      {
+        "challenge": "Watch an Comedy Movie"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with \"H\""
+      },
+      {
+        "challenge": "Watch a Space anime that started airing in 2020 or later"
+      },
+      {
+        "challenge": "Watch a Parody Special or TV Special"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a character that wears a <a href=\"https://anidb.net/tag/1492/animetb\">Mask</a> or <a href=\"https://anidb.net/tag/6531/animetb\">Disguises</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/160\">Koyasu, Takehito</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/madhouse#challengeItems\">Madhouse</a> anime",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch an anime adapted from a Visual Novel or a Game",
+        "notes": "Game source does not include card game nor the game theme tag."
+      },
+      {
+        "challenge": "Watch an anime tagged as <a href=\"https://anidb.net/tag/2874\">Disaster</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that began airing during January"
+      },
+      {
+        "challenge": "Watch an anime with three or more characters in one of its MAL pictures"
+      },
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/2878\">Conspiracy</a> or <a href=\"https://anidb.net/tag/3314\">Fate</a>: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/70\">Performing Arts</a> anime: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch an <a href=\"https://myanimelist.net/anime/genre/2\">Adventure</a> anime"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an <a href=\"https://myanimelist.net/anime/genre/50\">Adult Cast</a> or <a href=\"https://myanimelist.net/anime/genre/42\">Seinen</a> anime"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anidb.net/tag/1721/animetb\">Short-Tempered</a> character"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anidb.net/tag/3419/animetb\">Comically Angry Face</a> character"
+      },
+      {
+        "challenge": "Watch an anime ranked in the Top 500 Most Popular",
+        "notes": "Screenshot recommended in case popularity changes by inspection. Popularity is 500, 499, 498, 497, etc."
+      },
+      {
+        "challenge": "Watch an anime with a flower on any of its MAL pictures: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch a a series recommended to one of your favorite anime",
+        "notes": "State the previously completed favorite that's listed on your profile, under the Favorite Anime section; The used anime must appear under the \"Recommendations\" tab for the series previously watched; You can include a screenshot of your Favorites showing your username in case your favorites change by inspection."
+      },
+      {
+        "challenge": "Watch a Parody anime rated G, PG or PG-13"
+      },
+      {
+        "challenge": "Watch a Movie with a total runtime of 2 hours or more"
+      },
+      {
+        "challenge": "Watch an anime that features a <a href=\"https://anidb.net/tag/1538/animetb\">Passionate</a> character: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      },
+      {
+        "challenge": "Watch an anime with the colors white or red on any of its MAL pictures"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch a Action anime rated 7.00 or lower"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/2\">Sugita, Tomokazu</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with more than one main character"
+      },
+      {
+        "challenge": "Watch an anime whose main title ends with any of these letters: S, H, O, W"
+      },
+      {
+        "challenge": "Watch an anime adapted from a Light Novel",
+        "notes": "Does not include Novel, Visual Novel or Web Novel."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/73\">TMS Entertainment</a> or <a href=\"https://myanimelist.net/anime/producer/2\">Kyoto Animation</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch an anime whose main title contains the first letter of your username",
+        "notes": "Can be anywhere in the main title - if the first character of your username is not a letter then pick the following actual letter."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anidb.net/tag/2620/animetb\">Battle Royale</a>, <a href=\"https://anidb.net/tag/6005/animetb\">Battle of Wits</a> or <a href=\"https://anidb.net/tag/4257/animetb\">Survival</a> tagged anime",
+        "notes": "State the option used."
+      },
+      {
+        "challenge": "Watch an anime where a main character has <a href=\"https://anidb.net/tag/2525/chartb\">purple hair</a>",
+        "notes": "State the character used. Must be listed as a main character on MAL. Additional source on <a href=\"https://www.anime-planet.com/characters/all?hair_color_id=16\">Anime-Planet</a>."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/10\">Fantasy</a> or <a href=\"https://myanimelist.net/anime/genre/41\">Suspense</a> anime: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that began airing during any 6th day"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/118\">Kamiya, Hiroshi</a>",
+        "notes": "State the characters used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime.php?cat=anime&q=&type=0&score=0&status=0&p=0&r=0&sm=0&sd=0&sy=0&em=0&ed=0&ey=0&c%5B%5D=a&c%5B%5D=b&c%5B%5D=c&c%5B%5D=f&genre%5B%5D=4&genre%5B%5D=25\">Comedy AND Shoujo</a> anime"
+      },
+      {
+        "challenge": "Watch a Comedy anime that started airing in the same year you joined MAL"
+      },
+      {
+        "challenge": "Watch an anime made by <a href=\"https://anime.jhiday.net/hof/challenge/pierrot#challengeItems\">Studio Pierrot</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.1.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anidb.net/tag/362\">Dancing</a>: <a href=\"https://myanimelist.net/anime/0000\">Series</a>",
+        "notes": "Alternative listing: <a href=\"https://www.anime-planet.com/anime/tags/dancing\">Anime-Planet</a>."
+      },
+      {
+        "challenge": "Watch an anime that is <a href=\"https://anidb.net/tag/4498/animetb\">Heart-Warming</a>"
+      },
+      {
+        "challenge": "Watch an <a href=\"https://anime.jhiday.net/hof/challenge/isekai#challengeItems\">Isekai</a> anime"
+      },
+      {
+        "challenge": "Watch an anime based on a 4-koma Manga",
+        "notes": "Excludes manga, digital manga, and web manga."
+      },
+      {
+        "challenge": "Watch a Parody Special or TV Special"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/30\">Sports</a> anime"
+      },
+      {
+        "challenge": "Watch a short anime",
+        "notes": "More than one episode, each 15 minutes or less."
+      },
+      {
+        "challenge": "Watch an anime that features <a href=\"https://anime.jhiday.net/hof/challenge/episodic#challengeItems\">episodic</a> stories"
+      },
+      {
+        "challenge": "Watch an anime that started airing in March or April"
+      },
+      {
+        "challenge": "Watch an anime with a main title that has 3 words or less",
+        "notes": "Words must be separated by a space to count as one. A single letter, symbol or number does not count as a word."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/19\">Musical</a> anime",
+        "notes": "Does not refer to Music type."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/18\">Mecha</a> anime"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with W, H, E, -OR- L"
+      },
+      {
+        "challenge": "Watch an anime with 5,000 or more favorites"
+      },
+      {
+        "challenge": "Watch an ONA"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a character who has <a href=\"https://anidb.net/tag/1065/chartb\">heterochromia</a>",
+        "notes": "State the character used. Can be main or supporting. Additional source on <a href=\"https://www.anime-planet.com/characters/tags/heterochromia\">Anime-Planet</a>."
+      },
+      {
+        "challenge": "Watch an anime with 14-23 episodes"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/worldMasterpieceTheater#challengeItems\">World Masterpiece Theater</a> anime"
+      },
+      {
+        "challenge": "Watch a Music anime adapted from a Game or Visual Novel",
+        "notes": "Does not include Card Game, Novel, Web Novel or Light Novel."
+      },
+      {
+        "challenge": "Watch an anime with a total duration of two hours or longer in a single calendar day",
+        "notes": "Start and end date must be the same date."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.1.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that began airing on the 31st day"
+      },
+      {
+        "challenge": "Watch an anime with 30,000 or more Completed users on its stats page"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/gar#challengeItems\">GAR</a> anime"
+      },
+      {
+        "challenge": "Watch an anime tagged as <a href=\"https://anidb.net/tag/2874\">Disaster</a>"
+      },
+      {
+        "challenge": "Watch an anime with a character with \"no\" in their name",
+        "notes": "State the character used. Can be main or supporting. Can be the word alone or as part of another."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.1.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime adapted from a Book or Novel",
+        "notes": "Does not include Picture Book, Light Novel, Visual Novel or Web Novel."
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/37\">Supernatural</a> anime"
+      },
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/1591\">Science SARU</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      },
+      {
+        "challenge": "Watch a series with music or a theme song by <a href=\"https://myanimelist.net/people/8509\">Sawano, Hiroyuki</a>"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://www.anime-planet.com/characters/tags/shapeshifters\">Shapeshifter</a> character",
+        "notes": "State the character. Can be main or supporting. Must be listed on the tag list and not necessarily on MAL."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://anidb.net/tag/2648\">Contemporary Fantasy</a> anime",
+        "notes": "Additional source on <a href=\"https://www.anime-planet.com/anime/tags/contemporary-fantasy\">Anime-Planet</a>."
+      },
+      {
+        "challenge": "Watch an <a href=\"https://anime.jhiday.net/hof/challenge/episodic#challengeItems\">Episodic</a> anime"
+      },
+      {
+        "challenge": "Watch a Suspense Movie"
+      },
+      {
+        "challenge": "Watch an anime with F, A, or L in its main title"
+      },
+      {
+        "challenge": "Watch an anime that started airing in Fall",
+        "notes": "Began airing during the following months: October, November or December."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.1.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/7\">Mystery</a> anime"
+      },
+      {
+        "challenge": "Watch an 80's TV-Type"
+      },
+      {
+        "challenge": "Watch an anime with one main characters",
+        "notes": "Can have any number of supporting characters."
+      },
+      {
+        "challenge": "Watch an anime with a color in its main title",
+        "notes": "Use only English or Japanese for the colors. Bold or note the color used."
+      },
+      {
+        "challenge": "Watch an anime that is <a href=\"https://anidb.net/tag/6300/animetb\">missing an ending segment</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.1.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an anime whose MAL ID begins with 2"
+      },
+      {
+        "challenge": "Watch an anime that began airing during 1999"
+      },
+      {
+        "challenge": "Watch a Movie with a total runtime of 1 hour or less"
+      },
+      {
+        "challenge": "Watch an anime that has 2, 4, 6 or 8 episodes"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anime.jhiday.net/hof/challenge/worldTour#challengeItems\">World Tour</a> anime",
+        "notes": "Specify which Country is used."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch an OVA or Special with 4 episodes or less"
+      },
+      {
+        "challenge": "Watch an anime with the colors yellow or green on any of its MAL pictures"
+      },
+      {
+        "challenge": "Watch a 90's TV type"
+      },
+      {
+        "challenge": "Watch a Music anime rated 7.50 or higher"
+      },
+      {
+        "challenge": "Watch an anime that features a <a href=\"https://anidb.net/tag/5455\">Creepy</a> or <a href=\"https://anidb.net/tag/3826\">Evil</a> Laugh",
+        "notes": "State the option used."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/6\">Mythology</a> anime"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/31\">Super Power</a> anime"
+      },
+      {
+        "challenge": "Watch an anime that started airing in Spring",
+        "notes": "Began airing during the following months: April, May or June."
+      },
+      {
+        "challenge": "Watch an anime with only 3 episodes",
+        "notes": "The number of episodes must be exactly 3."
+      },
+      {
+        "challenge": "Watch an anime made by <a href=\"https://myanimelist.net/anime/producer/858\">Wit Studio</a>",
+        "notes": "Must be listed as the studio on the anime page."
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.2.1.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime with a main title that starts with P or T"
+      },
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/212\">Ono, Daisuke</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an anime with the color white on any of its MAL pictures"
+      },
+      {
+        "challenge": "Watch a <a href=\"https://anidb.net/tag/3528\">Reincarnation</a> anime",
+        "notes": "Alternative listing: <a href=\"https://myanimelist.net/anime/genre/72\">Reincarnation</a>."
+      },
+      {
+        "challenge": "Watch an <a href=\"https://anime.jhiday.net/hof/challenge/anthropomorphism#challengeItems\">Anthropomorphic</a> anime"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.2.1.2",
+    "challenges": [
+      {
+        "challenge": "Watch a <a href=\"https://myanimelist.net/anime/genre/14\">Horror</a> anime"
+      },
+      {
+        "challenge": "Watch an anime rated 7.0 or lower"
+      },
+      {
+        "challenge": "Watch an anime that aired at 02:00 JST",
+        "notes": "Must be listed as Broadcast: (Day) at 02:00 (JST)."
+      },
+      {
+        "challenge": "Watch an anime that began airing on a <a href=\"https://anime.jhiday.net/hof/challenge/tuesday#challengeItems\">Tuesday</a>"
+      },
+      {
+        "challenge": "Watch a Suspense anime with 10 episodes or more: <a href=\"https://myanimelist.net/anime/0000\">Series</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/270\">Okamoto, Nobuhiko</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an ONA rated 7.50 or higher",
+        "notes": "Screenshot recommended in case the score changes before inspection."
+      },
+      {
+        "challenge": "Watch an anime with the number \"0\" in the title"
+      },
+      {
+        "challenge": "Watch an anime that features <a href=\"https://www.anime-planet.com/anime/tags/abstract\">Abstractionism</a>"
+      },
+      {
+        "challenge": "Watch an anime that started airing in March or April"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.2.2.1",
+    "challenges": [
+      {
+        "challenge": "Watch an anime that started airing in Summer",
+        "notes": "Began airing during the following months: July, August or September."
+      },
+      {
+        "challenge": "Watch a Horror Sequel anime"
+      },
+      {
+        "challenge": "Watch an anime that started airing in 2020"
+      },
+      {
+        "challenge": "Watch an anime whose main title begins with \"A\""
+      },
+      {
+        "challenge": "Watch an anime that began airing on a <a href=\"https://anime.jhiday.net/hof/challenge/unknown#challengeItems\">Unknown day</a>"
+      }
+    ]
+  },
+  {
+    "title": "Path 3.2.2.2.2",
+    "challenges": [
+      {
+        "challenge": "Watch a series with a character voiced by <a href=\"https://myanimelist.net/people/513\">Nakamura, Yuuichi</a>",
+        "notes": "State the character used. Can be main or supporting."
+      },
+      {
+        "challenge": "Watch an ONA that began airing in 2020"
+      },
+      {
+        "challenge": "Watch an anime with a <a href=\"https://anidb.net/tag/2862\">Friendship</a>"
+      },
+      {
+        "challenge": "Watch an anime with the sky visible somewhere on one of its cover pictures"
+      },
+      {
+        "challenge": "Watch an anime that started airing in a year ending in 7"
+      }
+    ]
+  }
+]
