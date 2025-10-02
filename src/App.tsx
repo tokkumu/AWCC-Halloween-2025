@@ -7,7 +7,7 @@ function App() {
       <div>
         {data.map((path) => (
           <div>
-            <h1>{path.title}</h1>
+            <h2>{path.title}</h2>
             <ul>
               {path.challenges.map((challenge) => (
                 <li>
