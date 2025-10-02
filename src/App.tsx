@@ -8,22 +8,26 @@ function App() {
         {data.map((path) => (
           <div>
             <h1>{path.title}</h1>
-            {path.challenges.map((challenge) => (
-              <li>
-                <p
-                  className="challenge"
-                  dangerouslySetInnerHTML={{ __html: challenge.challenge }}
-                />
-                {challenge.notes ? (
-                  <small
-                    className="notes"
-                    dangerouslySetInnerHTML={{ __html: `- ${challenge.notes}` }}
+            <ul>
+              {path.challenges.map((challenge) => (
+                <li>
+                  <p
+                    className="challenge"
+                    dangerouslySetInnerHTML={{ __html: challenge.challenge }}
                   />
-                ) : (
-                  ""
-                )}
-              </li>
-            ))}
+                  {challenge.notes ? (
+                    <small
+                      className="notes"
+                      dangerouslySetInnerHTML={{
+                        __html: `- ${challenge.notes}`,
+                      }}
+                    />
+                  ) : (
+                    ""
+                  )}
+                </li>
+              ))}
+            </ul>
           </div>
         ))}
       </div>
